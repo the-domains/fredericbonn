@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Hello there, trying this new platform'
-datePublished: '2016-04-13T19:58:23.854Z'
-dateModified: '2016-04-13T19:58:15.470Z'
+description: A view from the Intercontinental Barclay
+datePublished: '2016-04-13T20:00:35.274Z'
+dateModified: '2016-04-13T19:58:51.059Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-hello-there-trying-this-new-platform.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-hello-there-trying-this-new-platform.md
-published: true
 url: hello-there-trying-this-new-platform/index.html
 _type: Article
 
